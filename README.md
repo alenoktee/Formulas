@@ -4,8 +4,8 @@ Develop an application for calculating the value of an expression with a choice 
 
 The program was developed in 1 days, taking into account switching to other disciplines in the college besides this one.
 
-<img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Main.png" width="55%"></img>
-<img align="center" src="https://github.com/alenoktee/Schedule/blob/master/Edit.png" width="40%"></img>
+<img align="center" src="https://github.com/alenoktee/Formulas/blob/master/formula%201.png" width="55%"></img>
+<img align="center" src="https://github.com/alenoktee/Formulas/blob/master/formula%202.png" width="40%"></img>
 
 ## **Briefly about the application:**
 
