@@ -4,22 +4,13 @@ Develop an application for calculating the value of an expression with a choice 
 
 The program was developed in 1 days, taking into account switching to other disciplines in the college besides this one.
 
-<img align="center" src="https://github.com/alenoktee/Formulas/blob/master/formula%201.png" width="55%"></img>
-<img align="center" src="https://github.com/alenoktee/Formulas/blob/master/formula%202.png" width="40%"></img>
+<img align="center" src="https://github.com/alenoktee/Formulas/blob/master/formula%201.png" width="50%"></img>
+<img align="center" src="https://github.com/alenoktee/Formulas/blob/master/formula%202.png" width="50%"></img>
 
 ## **Briefly about the application:**
 
-On the main form you can select one of 5 days of the week and the department you are interested in. The table will display the schedule of all groups in this department for the selected day. Groups are sorted in ascending order (1st-4th year).
-
-When creating a group, a new XML file is created with the name of this group, and the name of the group is placed in Groups.xml (contains a list of all groups).
-
-An example of an XML file for one of the groups:
-<img align="center" src="https://github.com/alenoktee/Schedule/blob/master/32i.png" width="55%"></img>
-
-Then, when editing and saving the schedule, the program reads all lines from the datagridview and updates the file for this group.
-
-Whenever groups or schedules change (within the application), the main form is updated.
-
+The user can select one of the formulas for calculation and enter the required values for the calculation. When you switch to one of the formulas, the input fields for the other form are erased along with the values ​​entered in them.
+The program has restrictions on input: it is impossible to enter letters or extra symbols, and when you enter a comma into an empty line, the construction “0,” immediately appears in the line.
 
 ---
 
