@@ -5,7 +5,7 @@ Develop an application for calculating the value of an expression with a choice 
 <img align="center" src="https://github.com/alenoktee/Formulas/blob/master/formula%201.png" width="45%"></img>
 <img align="center" src="https://github.com/alenoktee/Formulas/blob/master/formula%202.png" width="45%"></img>
 
-The program was developed in 1 days, taking into account switching to other disciplines in the college besides this one.
+The program was developed in few hours, taking into account switching to other disciplines in the college besides this one.
 
 ## **Briefly about the application:**
 
