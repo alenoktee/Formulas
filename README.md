@@ -1,4 +1,4 @@
-# **Exercise:**
+# **Task:**
 
 Develop an application for calculating the value of an expression with a choice of calculation formula.
 
